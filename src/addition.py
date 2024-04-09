@@ -1,4 +1,4 @@
-#this is add
+#this is addition funtion
 # app.py
 def add(a, b):
     return a + b
